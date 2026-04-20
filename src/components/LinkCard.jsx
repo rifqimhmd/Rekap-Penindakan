@@ -15,7 +15,9 @@ export default function LinkCard({ title, url, password }) {
       setInput("");
       setError("");
     } else {
-      setError("Password tidak sesuai");
+      setError(
+        "Password tidak sesuai. Hubungi admin untuk mendapatkan akses dan password.",
+      );
     }
   };
 
@@ -144,7 +146,7 @@ Terima kasih.`;
                       rel="noopener noreferrer"
                       className="text-xs text-gray-500 hover:text-red-600 transition"
                     >
-                      Hubungi admin untuk akses dan password.
+                      Lupa password? Hubungi admin.
                     </a>
                   </div>
 
