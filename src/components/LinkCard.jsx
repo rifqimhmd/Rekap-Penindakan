@@ -144,7 +144,7 @@ Terima kasih.`;
                       rel="noopener noreferrer"
                       className="text-xs text-gray-500 hover:text-red-600 transition"
                     >
-                      Lupa password? Hubungi admin
+                      Hubungi admin untuk akses dan password.
                     </a>
                   </div>
 
