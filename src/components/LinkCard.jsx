@@ -146,7 +146,7 @@ Terima kasih.`;
                       rel="noopener noreferrer"
                       className="text-xs text-gray-500 hover:text-red-600 transition"
                     >
-                      Lupa password? Hubungi admin.
+                      Password berubah secara berkala. Silakan hubungi admin.
                     </a>
                   </div>
 
