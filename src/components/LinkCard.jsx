@@ -26,6 +26,7 @@ export default function LinkCard({ title, url, password }) {
 Nama :
 NIP :
 Email :
+Satker : 
 Rekap Data yang Ingin Diakses : ${title}
 
 Terima kasih.`;
