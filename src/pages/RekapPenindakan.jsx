@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import Profile from "../components/Profile";
 import LinkCard from "../components/LinkCard";
 import Section from "../components/Section";
+import FloatingManualBook from "../components/FloatingManualBook";
 import Footer from "../components/Footer";
 import links from "../data/links";
 import { useEffect, useState } from "react";
@@ -67,6 +68,7 @@ export default function RekapPenindakan() {
           </motion.div>
         ))}
       </div>
+      <FloatingManualBook />
       <Footer />
     </div>
   );
